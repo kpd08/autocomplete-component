@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mapUsersToResponse should map users and repos to result 1`] = `
+Array [
+  Object {
+    "name": "a_repo",
+    "type": "repo",
+    "url": "mock.url",
+  },
+  Object {
+    "name": "a_user",
+    "type": "user",
+    "url": "mock.url",
+  },
+  Object {
+    "name": "b_repo",
+    "type": "repo",
+    "url": "mock.url",
+  },
+  Object {
+    "name": "b_user",
+    "type": "user",
+    "url": "mock.url",
+  },
+]
+`;

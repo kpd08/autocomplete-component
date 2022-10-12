@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete should render as expected 1`] = `
+<div>
+  <div
+    class="flex flex-col items-center"
+  >
+    <input
+      class="border-2 rounded p-4 max-w-md w-full outline-none"
+      placeholder="Search usernames or repositories"
+      value=""
+    />
+    <div
+      class="flex flex-col max-w-md w-full max-h-autocompleteResults overflow-auto shadow-md rounded-b-md"
+    />
+  </div>
+</div>
+`;
